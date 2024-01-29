@@ -1,2 +1,5 @@
 # 2048_game
-2048 game in Python and Pygame
+
+This 2048 Game code is created in Python using the Pygame library
+
+Here's the video explaining how I did it: https://youtu.be/vBDuQRucpIo
