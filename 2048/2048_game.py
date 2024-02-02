@@ -17,7 +17,7 @@ class Game:
         self.window = window
         self.matrix = [[0]*4 for _ in range(4)]
         self.cells = []
-        self.score = [0,0] in second position
+        self.score = [0,0]
         self.fontEngine = pygame.font.SysFont(SCORE_LABEL_FONT, 45)
         self.over = [False, False]
         self.startGame()
